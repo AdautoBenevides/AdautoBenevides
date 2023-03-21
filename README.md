@@ -1,13 +1,18 @@
-## Olaa! sou Adauto Benevides Couto, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano de Educação, Ciência e Tecnologia Baiano!
+### Olaa 👋🏻👋🏻! sou Adauto Benevides Couto, estou cursando Análise e Desenvolvimento de Sistemas 💻 no Instituto Federal Baiano de Educação, Ciência e Tecnologia Baiano!
+
 ### Sou apaixonado por tecnologia e programação, e estou sempre em busca de novos desafios e aprendizados.
 
+
+<img class="main-content" width="500px" height="281px" src="https://images7.alphacoders.com/499/499787.png" alt="Trust me, I'm a Programmer" title="Trust me, I'm a Programmer">
+
+##
+ 
 <div>
-<a href="https://github.com/AdautoBenevides">
+<a href="https://github.comadautoBenevides">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdautoBenevides&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdautoBenevides&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Hello World em várias linguagens de programação | Alura" data-noaft="1" style="width: 619px; height: 619px; margin: 0px;">
-
+ 
 </div>
  
   
@@ -42,8 +47,8 @@
  
 <div> 
   <a href="https://instagram.com/dau_benevides" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <a href="discordapp.com/users/721414292196425808" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:daucouto9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adauto-benevides-b61119263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
