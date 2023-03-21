@@ -5,6 +5,9 @@
 <a href="https://github.com/AdautoBenevides">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdautoBenevides&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdautoBenevides&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Hello World em várias linguagens de programação | Alura" data-noaft="1" style="width: 619px; height: 619px; margin: 0px;">
+
 </div>
  
   
